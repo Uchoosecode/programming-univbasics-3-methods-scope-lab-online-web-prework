@@ -11,5 +11,5 @@ def link
 end
 
 def any_phrase
-  puts ""
+  puts "#{link} Do a "
 end
